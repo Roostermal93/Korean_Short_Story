@@ -1,0 +1,56 @@
+{
+    "count": 7,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "301361ab-f707-47e7-987f-17601de962d2",
+            "collectionId": "Korean",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Korean/Korean_Short_Story/301361ab-f707-47e7-987f-17601de962d2/301361ab-f707-47e7-987f-17601de962d2_ko_Male.mp4"
+        },
+        {
+            "id": "733e49dc-a7c9-46b7-bfb3-b9efbdce43b3",
+            "collectionId": "Korean",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Korean/Korean_Short_Story/733e49dc-a7c9-46b7-bfb3-b9efbdce43b3/733e49dc-a7c9-46b7-bfb3-b9efbdce43b3_ko_Female.mp4"
+        },
+        {
+            "id": "96657046-9af7-4e8f-ba07-1db1ff8e650f",
+            "collectionId": "Korean",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Korean/Korean_Short_Story/96657046-9af7-4e8f-ba07-1db1ff8e650f/96657046-9af7-4e8f-ba07-1db1ff8e650f_ko_Female.mp4"
+        },
+        {
+            "id": "8ebfdb72-6832-48e7-b555-ee510ad1080b",
+            "collectionId": "Korean",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Korean/Korean_Short_Story/8ebfdb72-6832-48e7-b555-ee510ad1080b/8ebfdb72-6832-48e7-b555-ee510ad1080b_ko_Female.mp4"
+        },
+        {
+            "id": "ab843d7c-5321-4b4d-b65e-28acc11d3fe5",
+            "collectionId": "Korean",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Korean/Korean_Short_Story/ab843d7c-5321-4b4d-b65e-28acc11d3fe5/ab843d7c-5321-4b4d-b65e-28acc11d3fe5_ko_Male.mp4"
+        },
+        {
+            "id": "bee44c66-e7a0-4ea1-9bb7-50b9d666085a",
+            "collectionId": "Korean",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Korean/Korean_Short_Story/bee44c66-e7a0-4ea1-9bb7-50b9d666085a/bee44c66-e7a0-4ea1-9bb7-50b9d666085a_ko_Male.mp4"
+        },
+        {
+            "id": "ac6b29f9-ff47-4368-adee-3a73bd94fad0",
+            "collectionId": "Korean",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Korean/Korean_Short_Story/ac6b29f9-ff47-4368-adee-3a73bd94fad0/ac6b29f9-ff47-4368-adee-3a73bd94fad0_ko_Male.mp4"
+        }
+    ]
+}
